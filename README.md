@@ -1,5 +1,6 @@
 # go-deepl
 This package is wrapper DeepL Translation API, with golang.
+for API version 2 (2020/06/20) .
 
 # Usage
 ```go
